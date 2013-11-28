@@ -22,13 +22,13 @@
 		000BFA1718472081006FB821 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		000BFA1918472081006FB821 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		000BFA1B18472081006FB821 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		000BFA1F18472081006FB821 /* iOS5_Chapter5_v2-Info.plist */ = {isa = PBXFileReference; path = "iOS5_Chapter5_v2-Info.plist"; sourceTree = "<group>"; };
+		000BFA1F18472081006FB821 /* iOS5_Chapter5_v2-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iOS5_Chapter5_v2-Info.plist"; sourceTree = "<group>"; };
 		000BFA2118472081006FB821 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		000BFA2318472081006FB821 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		000BFA2518472081006FB821 /* iOS5_Chapter5_v2-Prefix.pch */ = {isa = PBXFileReference; path = "iOS5_Chapter5_v2-Prefix.pch"; sourceTree = "<group>"; };
-		000BFA2618472081006FB821 /* BIDAppDelegate.h */ = {isa = PBXFileReference; path = BIDAppDelegate.h; sourceTree = "<group>"; };
+		000BFA2518472081006FB821 /* iOS5_Chapter5_v2-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iOS5_Chapter5_v2-Prefix.pch"; sourceTree = "<group>"; };
+		000BFA2618472081006FB821 /* BIDAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BIDAppDelegate.h; sourceTree = "<group>"; };
 		000BFA2718472081006FB821 /* BIDAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BIDAppDelegate.m; sourceTree = "<group>"; };
-		000BFA2918472081006FB821 /* BIDViewController.h */ = {isa = PBXFileReference; path = BIDViewController.h; sourceTree = "<group>"; };
+		000BFA2918472081006FB821 /* BIDViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BIDViewController.h; sourceTree = "<group>"; };
 		000BFA2A18472081006FB821 /* BIDViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BIDViewController.m; sourceTree = "<group>"; };
 		000BFA2D18472081006FB821 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/BIDViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
